@@ -3,6 +3,11 @@
 ## Overview
 This project explores the application of Gaussian processes to estimate unobserved temperature data in Boston. We utilize Gaussian processes to model temperature variations, leveraging historical averages and observations from 2019.
 
+
+
+<img src="_Genomics and High Dimensional Data (2).png" alt="Image" width="^)" align="right">
+
+
 ## Data
 We work with temperature data from two sources:
 1. Weather information in Boston from 1981 to 2010, providing average high and low temperatures.
