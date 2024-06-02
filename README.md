@@ -5,7 +5,7 @@ This project explores the application of Gaussian processes to estimate unobserv
 
 
 
-<img src="_Genomics and High Dimensional Data (2).png" alt="Image" width="^)" align="right">
+<img src="_Genomics and High Dimensional Data (2).png" alt="Image" width="100" align="right">
 
 
 ## Data
